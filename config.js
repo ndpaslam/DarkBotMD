@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281327441039', '6282230819722']
+global.owner = ['6285893523975', '6282230819722']
 global.bsu = ['6281327441039']
 global.premium = ['6281327441039']
 global.pembeli = ['6281327441039', '6283111532238']
